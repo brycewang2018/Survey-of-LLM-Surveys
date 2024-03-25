@@ -1,4 +1,4 @@
-# Survey-of-LLM-Surveys
+# SoS on LLMs
 The Survey of the surveys on LLMs
 
 
