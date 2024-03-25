@@ -1,4 +1,4 @@
-# SoS on LLMs
+# SoS (Survey of Surveys) on Large Lange Models
 The Survey of the surveys on LLMs
 
 
